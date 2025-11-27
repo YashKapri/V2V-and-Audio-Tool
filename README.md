@@ -1,4 +1,4 @@
-# 🎬 V2V Anime & Audio Tool
+# 🎬 V2V & Audio Tool
 
 A full-stack AI video processing pipeline designed to bring high-fidelity Anime Style Transfer to consumer hardware (4GB VRAM).
 
