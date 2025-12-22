@@ -50,10 +50,7 @@ A full-stack AI video processing pipeline designed to bring high-fidelity Anime 
 - Redis Server (Must be running)
 - NVIDIA GPU (Recommended)
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YashKapri/V2V-and-Audio-Tool.git](https://github.com/YashKapri/V2V-and-Audio-Tool.git)
-cd V2V-and-Audio-Tool
+
 
 
 
